@@ -1,0 +1,193 @@
+C:/Users/Administrator/Desktop/liushuixian/load_use.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/load_use.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module load_use
+
+Top level modules:
+	load_use
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module pipeline_cpu
+
+Top level modules:
+	pipeline_cpu
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/regfile.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/regfile.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/mem.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/mem.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/testbench.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/testbench.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module EXMEMReg
+
+Top level modules:
+	EXMEMReg
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/testALU.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/testALU.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module testALU
+
+Top level modules:
+	testALU
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/fetch.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/fetch.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module fetch
+
+Top level modules:
+	fetch
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/forwarding.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/forwarding.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module forwarding
+
+Top level modules:
+	forwarding
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/contr_hazar.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/contr_hazar.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module contr_hazar
+
+Top level modules:
+	contr_hazar
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/decode.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/decode.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/ctrl.v {2 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/ctrl.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ctrl
+** Warning: C:/Users/Administrator/Desktop/liushuixian/ctrl.v(40): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	ctrl
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/im.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/im.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module MEMWRReg
+
+Top level modules:
+	MEMWRReg
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/multiply.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/multiply.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module multiply
+
+Top level modules:
+	multiply
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v {2 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module IDEXReg
+** Warning: C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v(91): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	IDEXReg
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/dm.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/dm.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/wb.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/wb.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module wb
+
+Top level modules:
+	wb
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/npc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/npc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module npc
+
+Top level modules:
+	npc
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/ID_EX.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/ID_EX.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/ext.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/ext.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ext
+-- Compiling module SignExt
+
+Top level modules:
+	ext
+	SignExt
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/exe.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/exe.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module exe
+
+Top level modules:
+	exe
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/alu.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/alu.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/mux.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/mux.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module mux4
+
+Top level modules:
+	mux2
+	mux3
+	mux4
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/IFIDReg.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/IFIDReg.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module IFIDReg
+
+Top level modules:
+	IFIDReg
+
+} {} {}} C:/Users/Administrator/Desktop/liushuixian/pc.v {1 {vlog -work work -stats=none C:/Users/Administrator/Desktop/liushuixian/pc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}}

@@ -1,0 +1,6 @@
+# Reading D:/altera/modelsim_ase/tcl/vsim/pref.tcl
+# error: Layout::Clairvoyance can't read "map(H)": no such element in array
+# can't read "map(H)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# OpenFile C:/Users/Administrator/Desktop/009+161610108+H›å+þ¾ã/work.mpf

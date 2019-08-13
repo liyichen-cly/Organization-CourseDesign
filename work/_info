@@ -1,0 +1,638 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/altera
+vALU
+Z0 !s110 1530900413
+!i10b 1
+!s100 ]zIg]5]Wc=eGdC^DG[RkX1
+IDU?SDCi7nK=c>]SaJYoJG1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Administrator/Desktop/liushuixian
+w1530674428
+8C:/Users/Administrator/Desktop/liushuixian/alu.v
+FC:/Users/Administrator/Desktop/liushuixian/alu.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1530900413.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/alu.v|
+!i113 1
+Z5 o-work work
+n@a@l@u
+vcontr_hazar
+R0
+!i10b 1
+!s100 [CRUD4zb3SB4VJ5ozBWHm2
+ImCANPA;7Ubf<<Mn3:c>E40
+R1
+R2
+w1530898593
+8C:/Users/Administrator/Desktop/liushuixian/contr_hazar.v
+FC:/Users/Administrator/Desktop/liushuixian/contr_hazar.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/liushuixian/contr_hazar.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/contr_hazar.v|
+!i113 1
+R5
+vctrl
+Z6 !s110 1530900414
+!i10b 1
+!s100 <E9_Zc:6moLj19`24]UR`1
+I`5cHDX@KmS6S?9?cKcEZ22
+R1
+R2
+w1530692394
+8C:/Users/Administrator/Desktop/liushuixian/ctrl.v
+FC:/Users/Administrator/Desktop/liushuixian/ctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/liushuixian/ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/ctrl.v|
+!i113 1
+R5
+vdecode
+R6
+!i10b 1
+!s100 O33l`MR0mA`m0nO`5V0ci1
+IV:?2=>[4KA8S07BZM99ZB3
+R1
+R2
+w1530674447
+8C:/Users/Administrator/Desktop/liushuixian/decode.v
+FC:/Users/Administrator/Desktop/liushuixian/decode.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1530900414.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/decode.v|
+!i113 1
+R5
+vdm
+R6
+!i10b 1
+!s100 z1C70z7R09_aN7=cZR>3>3
+Im6BYe]>KODkzO>DL>lEIE3
+R1
+R2
+w1530674452
+8C:/Users/Administrator/Desktop/liushuixian/dm.v
+FC:/Users/Administrator/Desktop/liushuixian/dm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Administrator/Desktop/liushuixian/dm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/dm.v|
+!i113 1
+R5
+vexe
+R6
+!i10b 1
+!s100 HfchS;;Ii4l0[WdjRTOI=2
+I=3bk@^24lhO;<YLS_N2Ll1
+R1
+R2
+w1530674457
+8C:/Users/Administrator/Desktop/liushuixian/exe.v
+FC:/Users/Administrator/Desktop/liushuixian/exe.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Administrator/Desktop/liushuixian/exe.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/exe.v|
+!i113 1
+R5
+vEXMEMReg
+Z8 !s110 1530900415
+!i10b 1
+!s100 W_GZ>JjDPfc0QRGLY5MUj3
+Ilz;NzH[JJ^BFFi8WSoGiW3
+R1
+R2
+w1530674468
+8C:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v
+FC:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1530900415.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/EXMEMReg.v|
+!i113 1
+R5
+n@e@x@m@e@m@reg
+vext
+Z10 !s110 1530900408
+!i10b 1
+!s100 GMJI97Z;MS1?K:fz69ChH0
+IFI:[EUB?Ge5XW1@3:ZbU?0
+R1
+R2
+Z11 w1530674479
+Z12 8C:/Users/Administrator/Desktop/liushuixian/ext.v
+Z13 FC:/Users/Administrator/Desktop/liushuixian/ext.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z14 !s108 1530900407.000000
+Z15 !s107 C:/Users/Administrator/Desktop/liushuixian/ext.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/ext.v|
+!i113 1
+R5
+vfetch
+R10
+!i10b 1
+!s100 h6C5nLO5HT:emCah0bCEh3
+I@GSCid3nQlj3UbDj>DmbH2
+R1
+R2
+w1530674493
+8C:/Users/Administrator/Desktop/liushuixian/fetch.v
+FC:/Users/Administrator/Desktop/liushuixian/fetch.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z17 !s108 1530900408.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/fetch.v|
+!i113 1
+R5
+vforwarding
+R10
+!i10b 1
+!s100 Ph^gHfZ0R2MnA^azOBM^a0
+IDiHQ1BMRWPzW>SjCKzPHA0
+R1
+R2
+w1530898607
+8C:/Users/Administrator/Desktop/liushuixian/forwarding.v
+FC:/Users/Administrator/Desktop/liushuixian/forwarding.v
+L0 1
+R3
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Administrator/Desktop/liushuixian/forwarding.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/forwarding.v|
+!i113 1
+R5
+vID_EX
+Z18 !s110 1530900409
+!i10b 1
+!s100 O=IK37La8??bZkHQ@`9H93
+Ik9kmRC_WCWS=Oj@Nc:7bz0
+R1
+R2
+w1530674509
+8C:/Users/Administrator/Desktop/liushuixian/ID_EX.v
+FC:/Users/Administrator/Desktop/liushuixian/ID_EX.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z19 !s108 1530900409.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/ID_EX.v|
+!i113 1
+R5
+n@i@d_@e@x
+vIDEXReg
+R18
+!i10b 1
+!s100 2[fUO8j@@<C1JE<dBmoXY2
+IU_DcY<gMf[Qm?:8HYbPan2
+R1
+R2
+w1530674514
+8C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v
+FC:/Users/Administrator/Desktop/liushuixian/IDEXReg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/IDEXReg.v|
+!i113 1
+R5
+n@i@d@e@x@reg
+vIFIDReg
+R18
+!i10b 1
+!s100 _`zJKg91kf]6FDEZKN[m73
+IaYo4@[eA=Cb<Eb]=X[gSz2
+R1
+R2
+w1530870764
+8C:/Users/Administrator/Desktop/liushuixian/IFIDReg.v
+FC:/Users/Administrator/Desktop/liushuixian/IFIDReg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Administrator/Desktop/liushuixian/IFIDReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/IFIDReg.v|
+!i113 1
+R5
+n@i@f@i@d@reg
+vim
+Z20 !s110 1530900410
+!i10b 1
+!s100 5UMJ2gL75c3[AAgm3gRLm0
+IzYVf8X2ZQ6NSeYZ=lQd]L3
+R1
+R2
+w1530710421
+8C:/Users/Administrator/Desktop/liushuixian/im.v
+FC:/Users/Administrator/Desktop/liushuixian/im.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Administrator/Desktop/liushuixian/im.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/im.v|
+!i113 1
+R5
+vload_use
+R8
+!i10b 1
+!s100 e;jhYjaVdaNhmZ?@3Wi7I0
+IiZnW;ezk8bVW_NzJ;C7[L1
+R1
+R2
+w1530897782
+8C:/Users/Administrator/Desktop/liushuixian/load_use.v
+FC:/Users/Administrator/Desktop/liushuixian/load_use.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Administrator/Desktop/liushuixian/load_use.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/load_use.v|
+!i113 1
+R5
+vmem
+R20
+!i10b 1
+!s100 _8:WO5SK4=`M?4U;E:^Rl2
+IoD0m9KXeG_P`f6>^IJbIo3
+R1
+R2
+w1530675278
+8C:/Users/Administrator/Desktop/liushuixian/mem.v
+FC:/Users/Administrator/Desktop/liushuixian/mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z21 !s108 1530900410.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/mem.v|
+!i113 1
+R5
+vMEMWRReg
+R20
+!i10b 1
+!s100 E0hTNToz7^b<FMfe0P:E_2
+I`7XWVlE^nIOI:6e34>mMH0
+R1
+R2
+w1530675283
+8C:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v
+FC:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/MEMWRReg.v|
+!i113 1
+R5
+n@m@e@m@w@r@reg
+vmultiply
+Z22 !s110 1530900411
+!i10b 1
+!s100 z5OG<0>MJR=0I5iVT7<b^3
+IL]EeE?9>JVmFXcVN[^i=>2
+R1
+R2
+w1530675293
+8C:/Users/Administrator/Desktop/liushuixian/multiply.v
+FC:/Users/Administrator/Desktop/liushuixian/multiply.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z23 !s108 1530900411.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/multiply.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/multiply.v|
+!i113 1
+R5
+vmux2
+R22
+!i10b 1
+!s100 406N[z@McBnWz]J:l?<NZ2
+Ic?h3kFRQ9;^?=:87DM<m?3
+R1
+R2
+Z24 w1530675302
+Z25 8C:/Users/Administrator/Desktop/liushuixian/mux.v
+Z26 FC:/Users/Administrator/Desktop/liushuixian/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R23
+Z27 !s107 C:/Users/Administrator/Desktop/liushuixian/mux.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/mux.v|
+!i113 1
+R5
+vmux3
+R22
+!i10b 1
+!s100 ja>BgCFQg7g]TXcbXjDlj3
+ILcN2h^Lfo1F9JXLj[NH3N1
+R1
+R2
+R24
+R25
+R26
+L0 10
+R3
+r1
+!s85 0
+31
+R23
+R27
+R28
+!i113 1
+R5
+vmux4
+R22
+!i10b 1
+!s100 ;hT6b2LJeS2eVCzaNCNIV1
+I<;V45lKff81QmknCMdm8?2
+R1
+R2
+R24
+R25
+R26
+L0 19
+R3
+r1
+!s85 0
+31
+R23
+R27
+R28
+!i113 1
+R5
+vnpc
+R22
+!i10b 1
+!s100 X>]O3U[fhB7e>:U[C95z13
+I:lobRbUiEaCo7k]iHFOhJ0
+R1
+R2
+w1530675310
+8C:/Users/Administrator/Desktop/liushuixian/npc.v
+FC:/Users/Administrator/Desktop/liushuixian/npc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Administrator/Desktop/liushuixian/npc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/npc.v|
+!i113 1
+R5
+vpc
+Z29 !s110 1530900412
+!i10b 1
+!s100 JL1ARfRdZW[j34`lR42L>0
+I;E[=HM6>5_ZkGonYWRGZB3
+R1
+R2
+w1530899776
+8C:/Users/Administrator/Desktop/liushuixian/pc.v
+FC:/Users/Administrator/Desktop/liushuixian/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Administrator/Desktop/liushuixian/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/pc.v|
+!i113 1
+R5
+vpipeline_cpu
+R29
+!i10b 1
+!s100 ze^4JzoXZjfj7;06eESdf1
+I4GiF9XklGJ7`8555Zze8A2
+R1
+R2
+w1530675324
+8C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v
+FC:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z30 !s108 1530900412.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu.v|
+!i113 1
+R5
+vpipeline_cpu_display
+Z31 !s110 1530605142
+!i10b 1
+!s100 olkO`Y3G6Y6bUCXcTY^=K3
+IfB]hnz0nKRVVn@6kkf=;V0
+R1
+R2
+w1499087759
+8C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu_display.v
+FC:/Users/Administrator/Desktop/liushuixian/pipeline_cpu_display.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z32 !s108 1530605142.000000
+!s107 C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu_display.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/pipeline_cpu_display.v|
+!i113 1
+R5
+vregfile
+R29
+!i10b 1
+!s100 =G0Nkh<>bZFIO3LNMAM>13
+I[oWQz@PDi_3O;6Q]];5VR3
+R1
+R2
+w1530675331
+8C:/Users/Administrator/Desktop/liushuixian/regfile.v
+FC:/Users/Administrator/Desktop/liushuixian/regfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Administrator/Desktop/liushuixian/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/regfile.v|
+!i113 1
+R5
+vSignExt
+R10
+!i10b 1
+!s100 52RT;4XMNU6^ZJGOKWmd22
+Ibl`DiE:5X^lH;2TCF1zfP1
+R1
+R2
+R11
+R12
+R13
+L0 11
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R5
+n@sign@ext
+vtb
+R31
+!i10b 1
+!s100 :YmRQ5`T0fj2bFI24_ceZ1
+IDH1V;FCnZCI]79]?FF3@Q2
+R1
+R2
+w1499087761
+8C:/Users/Administrator/Desktop/liushuixian/tb.v
+FC:/Users/Administrator/Desktop/liushuixian/tb.v
+L0 25
+R3
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Administrator/Desktop/liushuixian/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/tb.v|
+!i113 1
+R5
+vtestALU
+R29
+!i10b 1
+!s100 [_nFeV<S8zdFE_Yk9C>de0
+I5EX?@d[dLa8T8TUmU5mCA3
+R1
+R2
+w1530675352
+8C:/Users/Administrator/Desktop/liushuixian/testALU.v
+FC:/Users/Administrator/Desktop/liushuixian/testALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Administrator/Desktop/liushuixian/testALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/testALU.v|
+!i113 1
+R5
+ntest@a@l@u
+vtestbench
+R0
+!i10b 1
+!s100 05UfJE7Oib:fbJfhFN6dL1
+Ij]B``bh^jRdFz@;@=bI271
+R1
+R2
+w1530675360
+8C:/Users/Administrator/Desktop/liushuixian/testbench.v
+FC:/Users/Administrator/Desktop/liushuixian/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/liushuixian/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/testbench.v|
+!i113 1
+R5
+vwb
+R0
+!i10b 1
+!s100 1K4Z[@DC4XXDVAEO:EQYc1
+I6?jR18hPYmkdi<nlnm60F0
+R1
+R2
+w1530675373
+8C:/Users/Administrator/Desktop/liushuixian/wb.v
+FC:/Users/Administrator/Desktop/liushuixian/wb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Administrator/Desktop/liushuixian/wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Administrator/Desktop/liushuixian/wb.v|
+!i113 1
+R5
